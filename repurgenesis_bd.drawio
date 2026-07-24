@@ -109,7 +109,7 @@
         <mxCell id="9nD9C4QjUfyakCLOXl12-42" parent="1" style="text;whiteSpace=wrap;html=1;fontStyle=1" value="Addressable Treated Population" vertex="1">
           <mxGeometry height="40" width="210" x="320" y="272" as="geometry" />
         </mxCell>
-        <mxCell id="9nD9C4QjUfyakCLOXl12-43" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;× Disease Prevalence or Incidence&lt;br&gt;× Correct subtype&lt;br&gt;× Diagnosed Rate&lt;br&gt;× Severity / Biomarker Eligibility&lt;br&gt;× Treatment Eligibility&lt;br&gt;× Treatment Seeking&lt;br&gt;× Access / Reimbursement&lt;/font&gt;" vertex="1">
+        <mxCell id="9nD9C4QjUfyakCLOXl12-43" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;× Disease Prevalence or Incidence&lt;br&gt;× Correct Subtype&lt;br&gt;× Diagnosed Rate&lt;br&gt;× Severity / Biomarker Eligibility&lt;br&gt;× Treatment Eligibility&lt;br&gt;× Treatment Seeking&lt;br&gt;× Access / Reimbursement&lt;/font&gt;" vertex="1">
           <mxGeometry height="99" width="160" x="451" y="161" as="geometry" />
         </mxCell>
         <mxCell id="9nD9C4QjUfyakCLOXl12-45" parent="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;legacyAnchorPoints=0;strokeWidth=1.5;" value="" vertex="1">
