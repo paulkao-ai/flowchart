@@ -1,20 +1,65 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="SBALrlN6kBsUtM8m7AjH">
-    <mxGraphModel dx="1154" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="337" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lcu2N-7KIoizVsk50wcC-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="81" y="320" as="geometry" />
+          <mxGeometry height="50" width="121" x="80" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="lcu2N-7KIoizVsk50wcC-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Buyer Universe" vertex="1">
-          <mxGeometry height="80" width="182" x="50" y="310" as="geometry" />
+        <mxCell id="lcu2N-7KIoizVsk50wcC-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Epidemiology" vertex="1">
+          <mxGeometry height="20" width="71" x="105.5" y="337" as="geometry" />
         </mxCell>
         <mxCell id="lcu2N-7KIoizVsk50wcC-4" parent="1" style="text;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 22px;&quot;&gt;Buyer and Partner Discovery&lt;/font&gt;" vertex="1">
           <mxGeometry height="70" width="370" x="200" y="80" as="geometry" />
         </mxCell>
         <mxCell id="lcu2N-7KIoizVsk50wcC-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="M12" vertex="1">
           <mxGeometry height="30" width="60" x="188" y="63" as="geometry" />
+        </mxCell>
+        <mxCell id="9nD9C4QjUfyakCLOXl12-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="市場規模" vertex="1">
+          <mxGeometry height="40" width="50" x="116" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="9nD9C4QjUfyakCLOXl12-2" edge="1" parent="1" source="9nD9C4QjUfyakCLOXl12-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="9nD9C4QjUfyakCLOXl12-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9nD9C4QjUfyakCLOXl12-3" parent="1" style="text;whiteSpace=wrap;html=1;" value="Step 1" vertex="1">
+          <mxGeometry height="40" width="50" x="77" y="302" as="geometry" />
+        </mxCell>
+        <mxCell id="9nD9C4QjUfyakCLOXl12-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="50" width="121" x="79" y="438" as="geometry" />
+        </mxCell>
+        <mxCell id="9nD9C4QjUfyakCLOXl12-6" parent="1" style="text;whiteSpace=wrap;html=1;fontStyle=1" value="rNPV" vertex="1">
+          <mxGeometry height="18" width="37" x="122" y="442" as="geometry" />
+        </mxCell>
+        <mxCell id="9nD9C4QjUfyakCLOXl12-7" edge="1" parent="1" source="9nD9C4QjUfyakCLOXl12-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="9nD9C4QjUfyakCLOXl12-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9nD9C4QjUfyakCLOXl12-8" parent="1" style="text;whiteSpace=wrap;html=1;" value="Step 2" vertex="1">
+          <mxGeometry height="40" width="50" x="76" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="9nD9C4QjUfyakCLOXl12-9" parent="1" style="text;whiteSpace=wrap;html=1;" value="財務估值" vertex="1">
+          <mxGeometry height="18" width="52.5" x="113.25" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="9nD9C4QjUfyakCLOXl12-10" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="141" y="500" as="sourcePoint" />
+            <mxPoint x="141" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9nD9C4QjUfyakCLOXl12-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="50" width="121" x="79" y="548" as="geometry" />
+        </mxCell>
+        <mxCell id="9nD9C4QjUfyakCLOXl12-12" parent="1" style="text;whiteSpace=wrap;html=1;fontStyle=1" value="Competitor Landscape" vertex="1">
+          <mxGeometry height="18" width="138" x="122" y="552" as="geometry" />
+        </mxCell>
+        <mxCell id="9nD9C4QjUfyakCLOXl12-13" edge="1" parent="1" source="9nD9C4QjUfyakCLOXl12-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="9nD9C4QjUfyakCLOXl12-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9nD9C4QjUfyakCLOXl12-14" parent="1" style="text;whiteSpace=wrap;html=1;" value="Step 3" vertex="1">
+          <mxGeometry height="40" width="50" x="76" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="9nD9C4QjUfyakCLOXl12-15" parent="1" style="text;whiteSpace=wrap;html=1;" value="財務估值" vertex="1">
+          <mxGeometry height="18" width="52.5" x="113.25" y="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
