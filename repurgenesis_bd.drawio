@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="SBALrlN6kBsUtM8m7AjH">
-    <mxGraphModel dx="358" dy="339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="437" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,22 +98,28 @@
           <mxGeometry height="18" width="52.5" x="33" y="49" as="geometry" />
         </mxCell>
         <mxCell id="9nD9C4QjUfyakCLOXl12-36" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1.5;strokeColor=light-dark(#0080F0,#FFFFFF);shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" value="" vertex="1">
-          <mxGeometry height="29.099999999999998" width="24" x="720" y="240.89999999999998" as="geometry" />
+          <mxGeometry height="29.099999999999998" width="24" x="731" y="142.89999999999998" as="geometry" />
         </mxCell>
         <mxCell id="9nD9C4QjUfyakCLOXl12-40" parent="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;legacyAnchorPoints=0;strokeWidth=1.5;" value="" vertex="1">
-          <mxGeometry height="88" width="100" x="339" y="270" as="geometry" />
+          <mxGeometry height="88" width="100" x="350" y="172" as="geometry" />
         </mxCell>
         <mxCell id="9nD9C4QjUfyakCLOXl12-41" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b&gt;Patient Population&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="125" x="339" y="242" as="geometry" />
+          <mxGeometry height="40" width="125" x="350" y="144" as="geometry" />
         </mxCell>
         <mxCell id="9nD9C4QjUfyakCLOXl12-42" parent="1" style="text;whiteSpace=wrap;html=1;fontStyle=1" value="Addressable Treated Population" vertex="1">
-          <mxGeometry height="40" width="210" x="309" y="370" as="geometry" />
+          <mxGeometry height="40" width="210" x="320" y="272" as="geometry" />
         </mxCell>
         <mxCell id="9nD9C4QjUfyakCLOXl12-43" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;× Disease prevalence or incidence&lt;br&gt;× Correct subtype&lt;br&gt;× Diagnosed rate&lt;br&gt;× Severity / biomarker eligibility&lt;br&gt;× Treatment eligibility&lt;br&gt;× Treatment seeking&lt;br&gt;× Access / reimbursement&lt;/font&gt;" vertex="1">
-          <mxGeometry height="99" width="160" x="440" y="259" as="geometry" />
+          <mxGeometry height="99" width="160" x="451" y="161" as="geometry" />
         </mxCell>
         <mxCell id="9nD9C4QjUfyakCLOXl12-45" parent="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;legacyAnchorPoints=0;strokeWidth=1.5;" value="" vertex="1">
-          <mxGeometry height="88" width="100" x="340" y="407" as="geometry" />
+          <mxGeometry height="88" width="100" x="351" y="309" as="geometry" />
+        </mxCell>
+        <mxCell id="9nD9C4QjUfyakCLOXl12-46" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;× Uptake&lt;br&gt;× Persistence&lt;br&gt;× Adherence&lt;br&gt;× Annual net price&lt;br&gt;&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="67" width="130" x="461" y="319.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9nD9C4QjUfyakCLOXl12-47" parent="1" style="text;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255)); display: inline !important;&quot;&gt;&lt;font&gt;Net Revenue&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="361" y="402" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
