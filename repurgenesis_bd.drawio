@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="app.diagrams.net" pages="2">
   <diagram name="第 1 页" id="SBALrlN6kBsUtM8m7AjH">
     <mxGraphModel dx="1147" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -157,6 +157,14 @@
         <mxCell id="9nD9C4QjUfyakCLOXl12-62" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b&gt;CHOOSE ONE DISEASE &amp;amp; &lt;br&gt;FIND THE DRUGS THAT HAVE NOT TREATED TOWARD THIS DISEASE&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="451" x="270" y="150" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6ISSfR_cRzXMu9nZ14xv" name="第 2 页">
+    <mxGraphModel dx="1319" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
