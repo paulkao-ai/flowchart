@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram id="6ISSfR_cRzXMu9nZ14xv" name="Full Business ">
-    <mxGraphModel dx="4913" dy="1496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="4508" dy="1247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,8 +179,8 @@
         <mxCell id="1jV2aQDAb4ze3zybBp3U-24" parent="1jV2aQDAb4ze3zybBp3U-25" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=1;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Recommendation Market Size&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;IP status&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;ranked buyers&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;deal comps&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="70" width="220" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="1jV2aQDAb4ze3zybBp3U-35" parent="1jV2aQDAb4ze3zybBp3U-25" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=light-dark(#333333,#FFFFFF);labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.report;rounded=1;" value="" vertex="1">
-          <mxGeometry height="37" width="26.8" y="-20" as="geometry" />
+        <mxCell id="1jV2aQDAb4ze3zybBp3U-35" parent="1jV2aQDAb4ze3zybBp3U-25" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.report;rounded=1;fillColor=#a20025;strokeColor=#630000;fontColor=#ffffff;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="37" width="26.8" x="160" y="43" as="geometry" />
         </mxCell>
         <mxCell id="1jV2aQDAb4ze3zybBp3U-34" connectable="0" parent="1" style="group;rounded=1;" value="" vertex="1">
           <mxGeometry height="70" width="310" x="-470" y="720" as="geometry" />
