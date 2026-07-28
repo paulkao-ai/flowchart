@@ -661,14 +661,14 @@
         <mxCell id="M-DkLpF1F_t7iZ1s9sRB-1" parent="ASqfZnPT5y8zeecvVBbI-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b style=&quot;text-align: left;&quot;&gt;Population&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="98" x="-900" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="vvYiIO5Y_PIN794lYCFX-1" parent="ASqfZnPT5y8zeecvVBbI-1" style="text;whiteSpace=wrap;html=1;" value="&lt;b&gt;prevalence&lt;/b&gt;" vertex="1">
+        <mxCell id="vvYiIO5Y_PIN794lYCFX-1" parent="ASqfZnPT5y8zeecvVBbI-1" style="text;whiteSpace=wrap;html=1;" value="&lt;b&gt;Prevalence&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="-886" y="440" as="geometry" />
         </mxCell>
         <mxCell id="vvYiIO5Y_PIN794lYCFX-2" parent="ASqfZnPT5y8zeecvVBbI-1" style="text;whiteSpace=wrap;html=1;" value="&lt;b&gt;Treatment Rates, Price&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="150" x="-890" y="510.22" as="geometry" />
         </mxCell>
         <mxCell id="vvYiIO5Y_PIN794lYCFX-3" parent="ASqfZnPT5y8zeecvVBbI-1" style="text;whiteSpace=wrap;html=1;" value="&lt;b&gt;Value-based Price&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="130" x="-900" y="555.22" as="geometry" />
+          <mxGeometry height="40" width="130" x="-890" y="555.22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
