@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="4">
   <diagram id="6ISSfR_cRzXMu9nZ14xv" name="Full Business ">
-    <mxGraphModel dx="3207" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="4295" dy="1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -400,7 +400,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Simplified BD" id="g84G4aqucTu-FdPWQKq4">
-    <mxGraphModel dx="2950" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="3922" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="ASqfZnPT5y8zeecvVBbI-0" />
         <mxCell id="ASqfZnPT5y8zeecvVBbI-1" parent="ASqfZnPT5y8zeecvVBbI-0" />
@@ -458,12 +458,11 @@
         <mxCell id="ASqfZnPT5y8zeecvVBbI-36" edge="1" parent="ASqfZnPT5y8zeecvVBbI-1" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;curved=1;strokeWidth=2;endArrow=blockThin;endFill=1;" value="">
           <mxGeometry relative="1" width="100" as="geometry">
             <Array as="points">
-              <mxPoint x="-760" y="620" />
-              <mxPoint x="-760" y="624.94" />
-              <mxPoint x="-710" y="624.94" />
-              <mxPoint x="-710" y="644.89" />
+              <mxPoint x="-750" y="630" />
+              <mxPoint x="-710" y="630" />
+              <mxPoint x="-710" y="644.92" />
             </Array>
-            <mxPoint x="-770" y="620" as="sourcePoint" />
+            <mxPoint x="-750" y="620" as="sourcePoint" />
             <mxPoint x="-647" y="644.8900000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
