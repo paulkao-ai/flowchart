@@ -400,7 +400,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Simplified BD" id="g84G4aqucTu-FdPWQKq4">
-    <mxGraphModel dx="3922" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="4245" dy="1786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="ASqfZnPT5y8zeecvVBbI-0" />
         <mxCell id="ASqfZnPT5y8zeecvVBbI-1" parent="ASqfZnPT5y8zeecvVBbI-0" />
@@ -706,9 +706,6 @@
         </mxCell>
         <mxCell id="b_ZJkhQRlU9mOe5r7hG8-1" parent="ASqfZnPT5y8zeecvVBbI-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Same ID &lt;br&gt;(as in SOP)" vertex="1">
           <mxGeometry height="30" width="80" x="-1353" y="675.4499999999999" as="geometry" />
-        </mxCell>
-        <mxCell id="oGY7jA1_5p25t2_95EBq-0" edge="1" parent="ASqfZnPT5y8zeecvVBbI-1" source="ASqfZnPT5y8zeecvVBbI-72" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ASqfZnPT5y8zeecvVBbI-72">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ASqfZnPT5y8zeecvVBbI-75" edge="1" parent="ASqfZnPT5y8zeecvVBbI-1" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;strokeWidth=2;endArrow=block;endFill=1;entryX=0.001;entryY=0.42;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry relative="1" width="100" as="geometry">
