@@ -397,7 +397,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Simplified BD" id="g84G4aqucTu-FdPWQKq4">
-    <mxGraphModel dx="2856" dy="249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2724" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="ASqfZnPT5y8zeecvVBbI-0" />
         <mxCell id="ASqfZnPT5y8zeecvVBbI-1" parent="ASqfZnPT5y8zeecvVBbI-0" />
@@ -417,10 +417,10 @@
           <mxGeometry height="60" width="120" x="-1072" y="690" as="geometry" />
         </mxCell>
         <mxCell id="ASqfZnPT5y8zeecvVBbI-7" parent="ASqfZnPT5y8zeecvVBbI-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Disease Normalization&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="-1513" y="588.29" as="geometry" />
+          <mxGeometry height="60" width="120" x="-1468" y="591.3499999999999" as="geometry" />
         </mxCell>
         <mxCell id="ASqfZnPT5y8zeecvVBbI-8" parent="ASqfZnPT5y8zeecvVBbI-1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Input: Disease&lt;/font&gt;&lt;/b&gt;&lt;br&gt;e.g. Vitiligo" vertex="1">
-          <mxGeometry height="60" width="120" x="-1680" y="588.29" as="geometry" />
+          <mxGeometry height="60" width="120" x="-1635" y="591.3499999999999" as="geometry" />
         </mxCell>
         <mxCell id="ASqfZnPT5y8zeecvVBbI-9" parent="ASqfZnPT5y8zeecvVBbI-1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Deals &amp;amp; Buyers&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Comparable Sales&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="132" x="-1078" y="805.67" as="geometry" />
@@ -645,12 +645,12 @@
         <mxCell id="ASqfZnPT5y8zeecvVBbI-75" edge="1" parent="ASqfZnPT5y8zeecvVBbI-1" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;strokeWidth=2;endArrow=block;endFill=1;entryX=0.001;entryY=0.42;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry relative="1" width="100" as="geometry">
             <Array as="points">
-              <mxPoint x="-1394.82" y="623.0699999999999" />
-              <mxPoint x="-1174.71" y="623.0699999999999" />
-              <mxPoint x="-1174.71" y="264.01" />
+              <mxPoint x="-1349.99" y="623.0699999999999" />
+              <mxPoint x="-1129.88" y="623.0699999999999" />
+              <mxPoint x="-1129.88" y="264.01" />
             </Array>
-            <mxPoint x="-1383" y="623.0699999999999" as="sourcePoint" />
-            <mxPoint x="-1143.0039999999997" y="263.9975999999999" as="targetPoint" />
+            <mxPoint x="-1338.17" y="623.0699999999999" as="sourcePoint" />
+            <mxPoint x="-1098.1739999999998" y="263.9975999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ASqfZnPT5y8zeecvVBbI-76" parent="ASqfZnPT5y8zeecvVBbI-1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;rounded=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="" vertex="1">
@@ -677,10 +677,10 @@
         <mxCell id="ASqfZnPT5y8zeecvVBbI-92" edge="1" parent="ASqfZnPT5y8zeecvVBbI-1" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;strokeWidth=2;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry relative="1" width="100" as="geometry">
             <Array as="points">
-              <mxPoint x="-1555" y="618.31" />
+              <mxPoint x="-1510" y="621.3699999999999" />
             </Array>
-            <mxPoint x="-1549" y="618.1099999999999" as="sourcePoint" />
-            <mxPoint x="-1515" y="618.51" as="targetPoint" />
+            <mxPoint x="-1504" y="621.1699999999998" as="sourcePoint" />
+            <mxPoint x="-1470" y="621.5699999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M-DkLpF1F_t7iZ1s9sRB-1" parent="ASqfZnPT5y8zeecvVBbI-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b style=&quot;text-align: left;&quot;&gt;Population&lt;/b&gt;" vertex="1">
@@ -709,6 +709,12 @@
         </mxCell>
         <mxCell id="mMJ69T-k0mamF3CdsiX0-6" parent="ASqfZnPT5y8zeecvVBbI-1" style="text;whiteSpace=wrap;html=1;fontStyle=1" value="Ranked Buyers + Deal comps" vertex="1">
           <mxGeometry height="40" width="90" x="-895" y="840.03" as="geometry" />
+        </mxCell>
+        <mxCell id="b_ZJkhQRlU9mOe5r7hG8-0" parent="ASqfZnPT5y8zeecvVBbI-1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;rounded=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="29.099999999999998" width="24" x="-1452" y="673.7299999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="b_ZJkhQRlU9mOe5r7hG8-1" parent="ASqfZnPT5y8zeecvVBbI-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Same ID &lt;br&gt;(as in SOP)" vertex="1">
+          <mxGeometry height="30" width="80" x="-1428" y="672.8299999999999" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
