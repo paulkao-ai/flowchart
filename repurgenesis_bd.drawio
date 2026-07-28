@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="4">
   <diagram id="6ISSfR_cRzXMu9nZ14xv" name="Full Business ">
-    <mxGraphModel dx="3819" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="7831" dy="3555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -393,19 +393,22 @@
         <mxCell id="qtXTek-RdHCGwFO0vUan-11" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;rounded=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="" vertex="1">
           <mxGeometry height="29.099999999999998" width="24" x="-1902" y="665.2199999999999" as="geometry" />
         </mxCell>
+        <mxCell id="sdmPE5sMHRHAOXJmPbJy-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Same ID &lt;br&gt;(as in SOP)" vertex="1">
+          <mxGeometry height="30" width="80" x="-2000" y="745.22" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Simplified BD" id="g84G4aqucTu-FdPWQKq4">
-    <mxGraphModel dx="2724" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2992" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="ASqfZnPT5y8zeecvVBbI-0" />
         <mxCell id="ASqfZnPT5y8zeecvVBbI-1" parent="ASqfZnPT5y8zeecvVBbI-0" />
         <mxCell id="ASqfZnPT5y8zeecvVBbI-2" parent="ASqfZnPT5y8zeecvVBbI-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=#36393d;" value="" vertex="1">
-          <mxGeometry height="120" width="1330" x="-1030" y="1460" as="geometry" />
+          <mxGeometry height="494.78" width="1460" x="-1110" y="435.22" as="geometry" />
         </mxCell>
         <mxCell id="ASqfZnPT5y8zeecvVBbI-3" parent="ASqfZnPT5y8zeecvVBbI-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=#36393d;" value="" vertex="1">
-          <mxGeometry height="239.78" width="526" x="-400" y="150" as="geometry" />
+          <mxGeometry height="239.78" width="1216" x="-1090" y="150" as="geometry" />
         </mxCell>
         <mxCell id="ASqfZnPT5y8zeecvVBbI-4" parent="ASqfZnPT5y8zeecvVBbI-1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Epidemiology&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-1072" y="470" as="geometry" />
