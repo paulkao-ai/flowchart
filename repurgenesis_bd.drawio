@@ -379,7 +379,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Simplified BD" id="g84G4aqucTu-FdPWQKq4">
-    <mxGraphModel dx="3137" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="3512" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="ASqfZnPT5y8zeecvVBbI-0" />
         <mxCell id="ASqfZnPT5y8zeecvVBbI-1" parent="ASqfZnPT5y8zeecvVBbI-0" />
@@ -480,7 +480,7 @@
         <mxCell id="ASqfZnPT5y8zeecvVBbI-44" parent="ASqfZnPT5y8zeecvVBbI-43" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="" vertex="1">
           <mxGeometry height="70" width="300" x="5" as="geometry" />
         </mxCell>
-        <mxCell id="ASqfZnPT5y8zeecvVBbI-45" parent="ASqfZnPT5y8zeecvVBbI-43" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;" value="rNPV · Real Options · CCA&lt;div&gt;Base / Optimistic / Conservative + platform value etc&lt;/div&gt;" vertex="1">
+        <mxCell id="ASqfZnPT5y8zeecvVBbI-45" parent="ASqfZnPT5y8zeecvVBbI-43" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;" value="Asset / Deal rNPV · Real Options · CCA&lt;div&gt;Base / Optimistic / Conservative + platform value etc&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="310" y="20" as="geometry" />
         </mxCell>
         <mxCell id="ASqfZnPT5y8zeecvVBbI-46" parent="ASqfZnPT5y8zeecvVBbI-1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" value="Archive Case File" vertex="1">
