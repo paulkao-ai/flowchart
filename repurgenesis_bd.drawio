@@ -400,7 +400,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Simplified BD" id="g84G4aqucTu-FdPWQKq4">
-    <mxGraphModel dx="3599" dy="1293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2437" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="ASqfZnPT5y8zeecvVBbI-0" />
         <mxCell id="ASqfZnPT5y8zeecvVBbI-1" parent="ASqfZnPT5y8zeecvVBbI-0" />
@@ -657,16 +657,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ASqfZnPT5y8zeecvVBbI-76" parent="ASqfZnPT5y8zeecvVBbI-1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;rounded=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="29.099999999999998" width="24" x="-934" y="821.12" as="geometry" />
+          <mxGeometry height="29.099999999999998" width="24" x="-933" y="821.12" as="geometry" />
         </mxCell>
         <mxCell id="ASqfZnPT5y8zeecvVBbI-77" parent="ASqfZnPT5y8zeecvVBbI-1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;rounded=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="29.099999999999998" width="24" x="-942" y="705.45" as="geometry" />
+          <mxGeometry height="29.099999999999998" width="24" x="-933" y="705.45" as="geometry" />
         </mxCell>
         <mxCell id="ASqfZnPT5y8zeecvVBbI-82" parent="ASqfZnPT5y8zeecvVBbI-1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;rounded=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="29.099999999999998" width="24" x="-942" y="600.22" as="geometry" />
+          <mxGeometry height="29.099999999999998" width="24" x="-933" y="600.22" as="geometry" />
         </mxCell>
         <mxCell id="ASqfZnPT5y8zeecvVBbI-86" parent="ASqfZnPT5y8zeecvVBbI-1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;rounded=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="29.099999999999998" width="24" x="-942" y="495.6700000000001" as="geometry" />
+          <mxGeometry height="29.099999999999998" width="24" x="-933" y="495.6700000000001" as="geometry" />
         </mxCell>
         <mxCell id="ASqfZnPT5y8zeecvVBbI-91" edge="1" parent="ASqfZnPT5y8zeecvVBbI-1" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;strokeWidth=2;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry relative="1" width="100" as="geometry">
