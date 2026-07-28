@@ -161,12 +161,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6ISSfR_cRzXMu9nZ14xv" name="第 2 页">
-    <mxGraphModel dx="3461" dy="1193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3642" dy="1312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PIihAfBLGAFpa5IyVkIK-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Epidemiology" vertex="1">
-          <mxGeometry height="60" width="120" x="-1240" y="230" as="geometry" />
+          <mxGeometry height="60" width="120" x="-1240" y="220" as="geometry" />
         </mxCell>
         <mxCell id="oRo3h6JLhl2Le9c-FpE5-1" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1.5;strokeColor=light-dark(#0080F0,#FFFFFF);shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" value="" vertex="1">
           <mxGeometry height="29.099999999999998" width="24" x="-1464" y="290" as="geometry" />
@@ -175,7 +175,7 @@
           <mxGeometry height="60" width="120" x="-1240" y="330" as="geometry" />
         </mxCell>
         <mxCell id="oRo3h6JLhl2Le9c-FpE5-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Competitive Landscape" vertex="1">
-          <mxGeometry height="60" width="120" x="-1240" y="430" as="geometry" />
+          <mxGeometry height="60" width="120" x="-1240" y="440" as="geometry" />
         </mxCell>
         <mxCell id="oRo3h6JLhl2Le9c-FpE5-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Disease normalization" vertex="1">
           <mxGeometry height="60" width="120" x="-1410" y="380" as="geometry" />
@@ -184,7 +184,7 @@
           <mxGeometry height="60" width="120" x="-1560" y="380" as="geometry" />
         </mxCell>
         <mxCell id="oRo3h6JLhl2Le9c-FpE5-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Deals &amp;amp; Buyers&lt;div&gt;Comparable Sales&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="-1240" y="530" as="geometry" />
+          <mxGeometry height="60" width="120" x="-1240" y="555" as="geometry" />
         </mxCell>
         <mxCell id="oRo3h6JLhl2Le9c-FpE5-7" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1.5;strokeColor=light-dark(#0080F0,#FFFFFF);shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" value="" vertex="1">
           <mxGeometry height="29.099999999999998" width="24" x="-1040" y="560.9" as="geometry" />
@@ -288,11 +288,90 @@
         <mxCell id="oRo3h6JLhl2Le9c-FpE5-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;text-align: left;&quot;&gt;Literature&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="-731" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="oRo3h6JLhl2Le9c-FpE5-57" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;align=center;" value="" vertex="1">
-          <mxGeometry height="80" width="120" x="-620" y="370" as="geometry" />
+        <mxCell id="1jV2aQDAb4ze3zybBp3U-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="210" width="300" x="-450" y="305" as="geometry" />
         </mxCell>
-        <mxCell id="oRo3h6JLhl2Le9c-FpE5-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Contradiction Detection" vertex="1">
-          <mxGeometry height="30" width="60" x="-590" y="395" as="geometry" />
+        <mxCell id="1jV2aQDAb4ze3zybBp3U-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Rule" vertex="1">
+          <mxGeometry height="30" width="60" x="-460" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="1jV2aQDAb4ze3zybBp3U-5" parent="1" style="text;whiteSpace=wrap;" value="Rule A. Region containment &#xa;7MM market ≤ Global market&#xa;★ real failure observed in an AI-generated report&#xa;&#xa;Rule B. Ceiling calibration&#xa;modelled peak ≤ comparable actual × 1.5&#xa;&#xa;Rule C. Indication scope&#xa;multi-indication sales must be flagged&#xa;&#xa;Rule D. Price basis&#xa;CMS = gross (never treat as net)" vertex="1">
+          <mxGeometry height="185" width="270" x="-430" y="317.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1jV2aQDAb4ze3zybBp3U-6" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;curved=1;strokeWidth=2;endArrow=blockThin;endFill=1;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="-640" y="244" />
+              <mxPoint x="-640" y="340" />
+              <mxPoint x="-600" y="340" />
+            </Array>
+            <mxPoint x="-660" y="243.99" as="sourcePoint" />
+            <mxPoint x="-560" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jV2aQDAb4ze3zybBp3U-7" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="-560" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="oRo3h6JLhl2Le9c-FpE5-57" parent="1jV2aQDAb4ze3zybBp3U-7" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;align=center;" value="" vertex="1">
+          <mxGeometry height="80" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oRo3h6JLhl2Le9c-FpE5-58" parent="1jV2aQDAb4ze3zybBp3U-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Contradiction Detection" vertex="1">
+          <mxGeometry height="30" width="60" x="30" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="1jV2aQDAb4ze3zybBp3U-8" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;curved=1;strokeWidth=2;endArrow=blockThin;endFill=1;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="-710.95" y="350.47" />
+              <mxPoint x="-710.95" y="390.05" />
+              <mxPoint x="-670.95" y="390.05" />
+              <mxPoint x="-670.95" y="410.05" />
+            </Array>
+            <mxPoint x="-731" y="350.54" as="sourcePoint" />
+            <mxPoint x="-570" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jV2aQDAb4ze3zybBp3U-9" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;curved=1;strokeWidth=2;endArrow=block;endFill=1;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="-600" y="470" />
+              <mxPoint x="-600" y="440" />
+            </Array>
+            <mxPoint x="-720" y="470" as="sourcePoint" />
+            <mxPoint x="-560" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jV2aQDAb4ze3zybBp3U-10" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;curved=1;strokeWidth=2;endArrow=block;endFill=1;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="-626" y="595" />
+              <mxPoint x="-626" y="565" />
+            </Array>
+            <mxPoint x="-780" y="600" as="sourcePoint" />
+            <mxPoint x="-550" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jV2aQDAb4ze3zybBp3U-11" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" value="" vertex="1">
+          <mxGeometry height="350" width="20" x="-1280" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="1jV2aQDAb4ze3zybBp3U-12" parent="1" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" value="" vertex="1">
+          <mxGeometry height="90" width="150" x="390" y="160.45" as="geometry" />
+        </mxCell>
+        <mxCell id="1jV2aQDAb4ze3zybBp3U-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Decision" vertex="1">
+          <mxGeometry height="30" width="60" x="435" y="190.45" as="geometry" />
+        </mxCell>
+        <mxCell id="1jV2aQDAb4ze3zybBp3U-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Go / License / Drop" vertex="1">
+          <mxGeometry height="30" width="130" x="405" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="1jV2aQDAb4ze3zybBp3U-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Business Value Calculation" vertex="1">
+          <mxGeometry height="30" width="180" x="-110" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="1jV2aQDAb4ze3zybBp3U-20" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="70" width="310" x="-100" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="1jV2aQDAb4ze3zybBp3U-17" parent="1jV2aQDAb4ze3zybBp3U-20" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="70" width="300" x="5" as="geometry" />
+        </mxCell>
+        <mxCell id="1jV2aQDAb4ze3zybBp3U-19" parent="1jV2aQDAb4ze3zybBp3U-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="rNPV · Real Options · CCA&lt;div&gt;Base / Optimistic / Conservative + platform value&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="310" y="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
